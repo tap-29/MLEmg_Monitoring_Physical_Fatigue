@@ -1,39 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82518a64-b0a0-4537-b98f-d64868a2c11d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/analyze_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/analyze_mnf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EMG_Fatigue_Monitoring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EMG_Fatigue_Monitoring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="82518a64-b0a0-4537-b98f-d64868a2c11d" name="Default Changelist" comment="原始版本0.1，为了交互提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/10_1_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/10_1_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/10_1_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/10_1_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/1_1_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/1_1_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/1_1_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/1_1_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/2_1_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/2_1_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/2_1_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/2_1_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/3_1_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/3_1_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/3_1_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/3_1_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/3_1_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/3_1_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/4_1_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/4_1_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/5_1_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/5_1_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/6_1_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/6_1_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/6_1_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/6_1_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/6_1_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/6_1_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/7_1_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/7_1_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/7_1_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/7_1_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/8_1_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/8_1_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/8_1_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/8_1_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/9_1_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/9_1_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/9_1_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/9_1_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment_comparison/9_1_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_comparison/9_1_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataCrossValidSplit.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataCrossValidSplit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EMG_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EMG_training.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FatigueMonitoring.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/FatigueMonitoring.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/analyze_mnf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1036">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="365">
+              <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -225,7 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,15 +201,11 @@
               <item name="MLEmg_Monitoring_Physical_Fatigue" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLEmg_Monitoring_Physical_Fatigue" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MLEmg_Monitoring_Physical_Fatigue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MLEmg_Monitoring_Physical_Fatigue" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,11 +374,20 @@
       <workItem from="1701568528058" duration="4831000" />
       <workItem from="1701660534795" duration="4296000" />
       <workItem from="1701767687014" duration="1119000" />
+      <workItem from="1702866907719" duration="283000" />
     </task>
+    <task id="LOCAL-00001" summary="原始版本0.1，为了交互提交">
+      <created>1702867129988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702867129988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35948000" />
+    <option name="totallyTimeSpent" value="36231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,12 +401,12 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5535714" visible="true" weight="0.23851351" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5535714" visible="true" weight="0.24256757" />
       <window_info id="Structure" order="1" sideWeight="0.44642857" side_tool="true" weight="0.23445946" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.21021898" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4486405" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4486405" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.22379912" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -483,6 +456,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="原始版本0.1，为了交互提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="原始版本0.1，为了交互提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -651,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/analyze_mnf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1036">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="365">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
