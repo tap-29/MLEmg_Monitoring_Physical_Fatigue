@@ -5,6 +5,8 @@ from hmmlearn import hmm
 import keras
 from keras.layers import Conv2D, MaxPooling2D,Flatten,Dense,Conv3D
 from keras.models import Sequential
+from tensorflow.keras.optimizers import Adam
+
 
 class kNN:
     def __init__(self, X, Y, k):
@@ -46,7 +48,7 @@ def CNNclassifier(x_train, y_train,x_test, y_test,input_size,epochs=100,batch_si
     model.add(Dense(1000, activation='relu'))
     model.add(Dense(1, activation='softmax'))
     model.compile(loss=keras.losses.binary_crossentropy,
-              optimizer=keras.optimizers.Adam(lr=0.0000001),
+              optimizer=Adam(lr=0.0000001),
               metrics=['accuracy'])
     model.fit(x_train, y_train,
               batch_size=batch_size,

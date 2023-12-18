@@ -4,12 +4,12 @@ import os
 import math
 import matplotlib.pyplot as plt
 import numpy as np
+import sys
+
+sys.path.append('D:\\code_new\\for_python\\muscle_faigue\\data_source_paper\\MLEmg_Monitoring_Physical_Fatigue\\src')
 import FeatureExtraction_1D as f1d
 from pyAudioAnalysis import audioTrainTest as aT
-import cPickle
-
-
-
+import pickle
 
 
 def mtLabelExtraction(labels, Fs, mtWin, mtStep, stWin, stStep):
@@ -23,24 +23,21 @@ def mtLabelExtraction(labels, Fs, mtWin, mtStep, stWin, stStep):
     curPos = 0
     N = len(stLabels)
     while (curPos < N):
-            N1 = curPos
-            N2 = curPos + mtWinRatio
-            if N2 > N:
-                N2 = N
-            curStLabels = stLabels[N1:N2]
-            if curStLabels.count(0) > curStLabels.count(1):
-                mtLabels.append(0)
-            else:
-                mtLabels.append(1)
-            curPos += mtStepRatio
+        N1 = curPos
+        N2 = curPos + mtWinRatio
+        if N2 > N:
+            N2 = N
+        curStLabels = stLabels[N1:N2]
+        if curStLabels.count(0) > curStLabels.count(1):
+            mtLabels.append(0)
+        else:
+            mtLabels.append(1)
+        curPos += mtStepRatio
 
     return mtLabels, stLabels
 
 
-
-
 def stLabelsExtraction(labels, Fs, Win, Step):
-
     Win = int(Win)
     Step = int(Step)
 
@@ -63,9 +60,7 @@ def stLabelsExtraction(labels, Fs, Win, Step):
     return stLabels
 
 
-
-def showEMGData(data,duration,gt):
-
+def showEMGData(data, duration, gt):
     Fs = round(len(data) / float(duration))
     fatigue_thresh = gt.index(1)
 
@@ -75,15 +70,15 @@ def showEMGData(data,duration,gt):
     if len(T_no_fatigue) > len(data[:fatigue_thresh]):
         T_no_fatigue = T_no_fatigue[:-1]
     if len(T_fatigue) > len(data):
-            T_fatigue = T_fatigue[:-1]
-    plt.plot(T_fatigue, data,'--r')
+        T_fatigue = T_fatigue[:-1]
+    plt.plot(T_fatigue, data, '--r')
     plt.plot(T_no_fatigue, data[:fatigue_thresh])
     plt.show()
 
 
-def featureExtraction(raw_data,time,gt_labels,mW,mS,sW,sS):
-    #emg_features_vectors = []
-    duration = float(time[-1]-time[0])
+def featureExtraction(raw_data, time, gt_labels, mW, mS, sW, sS):
+    # emg_features_vectors = []
+    duration = float(time[-1] - time[0])
     Fs = round(len(raw_data) / duration)
 
     mtWin = mW
@@ -95,7 +90,7 @@ def featureExtraction(raw_data,time,gt_labels,mW,mS,sW,sS):
     mtStep = 0.25
     stWin = 0.13
     stStep = 0.04
-    
+
     mtWin = 0.5
     mtStep = 0.25
     stWin = 0.2
@@ -111,25 +106,22 @@ def featureExtraction(raw_data,time,gt_labels,mW,mS,sW,sS):
     stWin = 0.13
     stStep = 0.04
     '''
-    [MidTermFeatures, stFeatures] = f1d.mtFeatureExtraction(raw_data,Fs, round(mtWin * Fs), round(mtStep * Fs), round(Fs * stWin), round(Fs * stStep))
-    [MidTermLabels, stLabels] = mtLabelExtraction(gt_labels, Fs, round(mtWin * Fs), round(mtStep * Fs), round(Fs * stWin), round(Fs * stStep))
+    [MidTermFeatures, stFeatures] = f1d.mtFeatureExtraction(raw_data, Fs, round(mtWin * Fs), round(mtStep * Fs),
+                                                            round(Fs * stWin), round(Fs * stStep))
+    [MidTermLabels, stLabels] = mtLabelExtraction(gt_labels, Fs, round(mtWin * Fs), round(mtStep * Fs),
+                                                  round(Fs * stWin), round(Fs * stStep))
 
-
-    return MidTermFeatures.copy(),MidTermLabels #, stFeatures,stLabels
-
-
-
-
+    return MidTermFeatures.copy(), MidTermLabels  # , stFeatures,stLabels
 
 
 def evaluateClassifier(argv):
     save = argv[5]
 
-    dirName = argv[2]    # path to csv files
-    fileList  = sorted(glob.glob(os.path.join(dirName, "*.csv")))
+    dirName = argv[2]  # path to csv files
+    fileList = sorted(glob.glob(os.path.join(dirName, "*.csv")))
 
-    #data = {}
-    #data['user'] = {}
+    # data = {}
+    # data['user'] = {}
     user = []
     exercise = []
     repetition = []
@@ -141,76 +133,71 @@ def evaluateClassifier(argv):
 
     for file in fileList:
 
-        with open(file,'r') as f:
+        with open(file, 'r') as f:
             x = f.readlines()
             if not x:
                 continue
-            time.append( [float(label.split(',')[0]) for label in x ])
-            emg_raw.append( [float(label.split(',')[1]) for label in x ])
-            gt_labels.append( [int(label.split(',')[2].rstrip()) for label in x ])
+            time.append([float(label.split(',')[0]) for label in x])
+            emg_raw.append([float(label.split(',')[1]) for label in x])
+            gt_labels.append([int(label.split(',')[2].rstrip()) for label in x])
         f.close
 
-        #split the sample into the positive and negative classes
+        # split the sample into the positive and negative classes
         ###
-        feature_vectors,gtWindowLabels = featureExtraction(emg_raw[-1], time[-1],gt_labels[-1],2,1,0.25,0.25)
+        feature_vectors, gtWindowLabels = featureExtraction(emg_raw[-1], time[-1], gt_labels[-1], 2, 1, 0.25, 0.25)
 
-        for i,w in enumerate(gtWindowLabels):
-            if w==0:
-                feature_vectors_nofatigue.append( feature_vectors[:,i])
+        for i, w in enumerate(gtWindowLabels):
+            if w == 0:
+                feature_vectors_nofatigue.append(feature_vectors[:, i])
             else:
-                feature_vectors_fatigue.append(feature_vectors[:,i])
-
+                feature_vectors_fatigue.append(feature_vectors[:, i])
 
         user.append(file.split('/')[-1].split('E')[0][1:])
         exercise.append(file.split('/')[-1].split('R')[0][-1])
         repetition.append(file.split('/')[-1].split('.')[0][-1])
 
-
         if argv[-1] == '-s':
-            showEMGData(emg_raw[-1],time[-1][-1]-time[-1][0],gt_labels[-1])
+            showEMGData(emg_raw[-1], time[-1][-1] - time[-1][0], gt_labels[-1])
 
-
-    #Collect all features
+    # Collect all features
     featuresAll = []
     featuresAll.append(np.array(feature_vectors_nofatigue))
     featuresAll.append(np.array(feature_vectors_fatigue))
-    labelsAll = ['0:NoFtigue','1:Fatigue'] # 0:NoFtigue, 1:Fatigue
+    labelsAll = ['0:NoFtigue', '1:Fatigue']  # 0:NoFtigue, 1:Fatigue
 
-    #Normilize features
+    # Normilize features
     (featuresAll, MEAN, STD) = aT.normalizeFeatures(featuresAll)
 
     clf = argv[3][1:]
     params = argv[4]
-    bestParam = aT.evaluateclassifier(featuresAll, labelsAll, 1000, clf , params, 0, perTrain=0.80)
-
+    bestParam = aT.evaluateclassifier(featuresAll, labelsAll, 1000, clf, params, 0, perTrain=0.80)
 
     MEAN = MEAN.tolist()
     STD = STD.tolist()
 
-    model =Classify(clf,featuresAll,bestParam)
+    model = Classify(clf, featuresAll, bestParam)
 
     if save:
-        saveClassifier(clf,bestParam,model,MEAN,STD,labelsAll)
+        saveClassifier(clf, bestParam, model, MEAN, STD, labelsAll)
 
-    print 'Training of',clf,'completed'
+    print('Training of', clf, 'completed')
 
-    return clf,model,labelsAll,MEAN,STD,bestParam
+    return clf, model, labelsAll, MEAN, STD, bestParam
 
 
-
-def saveClassifier(clf_name,bestParam,model,MEAN,STD,labelsAll):
+def saveClassifier(clf_name, bestParam, model, MEAN, STD, labelsAll):
     # STEP C: Save the classifier to file
     modelName = clf_name + '_' + str(bestParam)
     with open(modelName, 'wb') as fid:  # save to file
-        cPickle.dump(model, fid)
+        pickle.dump(model, fid)
     fo = open(modelName + "MEANS", "wb")
-    cPickle.dump(MEAN, fo, protocol=cPickle.HIGHEST_PROTOCOL)
-    cPickle.dump(STD, fo, protocol=cPickle.HIGHEST_PROTOCOL)
-    cPickle.dump(labelsAll, fo, protocol=cPickle.HIGHEST_PROTOCOL)
+    pickle.dump(MEAN, fo, protocol=pickle.HIGHEST_PROTOCOL)
+    pickle.dump(STD, fo, protocol=pickle.HIGHEST_PROTOCOL)
+    pickle.dump(labelsAll, fo, protocol=pickle.HIGHEST_PROTOCOL)
     fo.close()
 
 
-def Classify(clf,featuresAll, bestParam):
+def Classify(clf, featuresAll, bestParam):
     if clf == 'svm':
         model = aT.trainSVM(featuresAll, bestParam)
     elif clf == 'svm_rbf':
