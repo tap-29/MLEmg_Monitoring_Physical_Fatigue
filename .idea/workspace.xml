@@ -19,584 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82518a64-b0a0-4537-b98f-d64868a2c11d" name="Default Changelist" comment="原始版本0.1，为了交互提交">
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U10Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U1Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U2Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U3Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U4Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U5Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U6Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U7Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U8Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/EMG/U9Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U10Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U1Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U2Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U3Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U4Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U5Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U6Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U7Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U8Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/median/U9Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U10Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U1Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U2Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U3Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U4Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U5Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U6Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U7Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U8Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex1Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex1Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex1Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex2Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex2Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex2Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex3Rep1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex3Rep2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study1/slope/U9Ex3Rep3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U10Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U10Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U10Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U11Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U11Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U11Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U12Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U12Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U12Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U13Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U13Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U13Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U14Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U14Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U14Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U15Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U15Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U15Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U16Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U16Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U16Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U17Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U17Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U17Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U18Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U18Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U18Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U19Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U19Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U19Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U20Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U20Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U20Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U8Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U8Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U8Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U9Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U9Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 1/U9Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U10Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U10Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U11Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U11Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U12Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U12Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U13Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U13Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U14Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U14Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U14Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U15Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U15Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U16Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U16Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U17Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U17Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U18Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U18Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U19Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U20Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U8Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/EMG/System 2/U8Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U10/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U10/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U10/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U10/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U10/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U10/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U11/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U11/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U11/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U11/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U11/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U11/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U12/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U12/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U12/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U12/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U12/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U12/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U13/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U13/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U13/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U13/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U13/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U13/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U14/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U14/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U14/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U14/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U14/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U14/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U15/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U15/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U15/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U15/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U15/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U15/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U16/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U16/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U16/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U16/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U16/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U16/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U17/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U17/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U17/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U17/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U17/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U17/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U18/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U18/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U18/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U18/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U18/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U18/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U19/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U19/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U19/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U19/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U19/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U19/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U20/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U20/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U20/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U20/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U20/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U20/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U8/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U8/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U8/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U8/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U8/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U8/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U9/System 1/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U9/System 1/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U9/System 1/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U9/System 2/EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U9/System 2/SA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/Raw/U9/System 2/SF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U10Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U10Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U10Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U11Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U11Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U11Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U12Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U12Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U12Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U13Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U13Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U13Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U14Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U14Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U14Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U15Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U15Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U15Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U16Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U16Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U16Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U17Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U17Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U17Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U18Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U18Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U18Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U19Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U19Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U19Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U20Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U20Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U20Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U8Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U8Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U8Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U9Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U9Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 1/U9Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U10Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U10Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U11Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U11Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U12Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U12Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U13Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U13Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U14Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U14Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U14Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U15Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U15Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U16Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U16Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U17Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U17Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U18Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U18Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U19Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U20Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U8Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/median/System 2/U8Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U10Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U10Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U10Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U11Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U11Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U11Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U12Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U12Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U12Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U13Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U13Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U13Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U14Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U14Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U14Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U15Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U15Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U15Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U16Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U16Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U16Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U17Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U17Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U17Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U18Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U18Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U18Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U19Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U19Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U19Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U1Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U1Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U1Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U20Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U20Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U20Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U2Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U2Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U2Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U3Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U3Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U3Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U4Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U4Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U4Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U5Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U5Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U5Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U6Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U6Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U6Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U7Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U7Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U7Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U8Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U8Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U8Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U9Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U9Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 1/U9Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U10Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U10Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U11Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U11Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U12Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U12Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U13Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U13Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U14Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U14Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U14Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U15Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U15Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U16Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U16Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U17Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U17Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U18Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U18Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U19Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U1Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U1Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U20Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U2Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U2Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U2Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U3Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U3Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U4Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U4Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U5Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U6Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U7Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U7Ex3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U8Ex1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/origin_data/Study2/slope/System 2/U8Ex2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/get_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/temp_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/xbbh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/analyze_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/analyze_data.py" afterDir="false" />
-    </list>
+    <list default="true" id="82518a64-b0a0-4537-b98f-d64868a2c11d" name="Default Changelist" comment="基本完成滤波所有流程，暂时没有实现量化指标的提取和数据整理" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -809,7 +232,7 @@
       <workItem from="1701767687014" duration="1119000" />
       <workItem from="1702866907719" duration="283000" />
       <workItem from="1702868637382" duration="16705000" />
-      <workItem from="1703229967882" duration="33923000" />
+      <workItem from="1703229967882" duration="34287000" />
     </task>
     <task id="LOCAL-00001" summary="原始版本0.1，为了交互提交">
       <created>1702867129988</created>
@@ -825,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702869309278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="基本完成滤波所有流程，暂时没有实现量化指标的提取和数据整理">
+      <created>1703680146530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703680146530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -846,7 +276,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="原始版本0.1，为了交互提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="原始版本0.1，为了交互提交" />
+    <MESSAGE value="基本完成滤波所有流程，暂时没有实现量化指标的提取和数据整理" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本完成滤波所有流程，暂时没有实现量化指标的提取和数据整理" />
   </component>
   <component name="WindowStateProjectService">
     <state x="426" y="0" key="#analyze_mnf" timestamp="1702868658248">
@@ -865,22 +296,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="314" y="168" width="1169" height="487" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1703040392492" />
-    <state width="1483" height="264" key="GridCell.Tab.0.bottom" timestamp="1703677656965">
+    <state width="1483" height="125" key="GridCell.Tab.0.bottom" timestamp="1703680149742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1703677656965" />
-    <state width="1483" height="264" key="GridCell.Tab.0.center" timestamp="1703677656965">
+    <state width="1483" height="125" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1703680149742" />
+    <state width="1483" height="125" key="GridCell.Tab.0.center" timestamp="1703680149741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1703677656965" />
-    <state width="1483" height="264" key="GridCell.Tab.0.left" timestamp="1703677656965">
+    <state width="1483" height="125" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1703680149741" />
+    <state width="1483" height="125" key="GridCell.Tab.0.left" timestamp="1703680149741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1703677656965" />
-    <state width="1483" height="264" key="GridCell.Tab.0.right" timestamp="1703677656965">
+    <state width="1483" height="125" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1703680149741" />
+    <state width="1483" height="125" key="GridCell.Tab.0.right" timestamp="1703680149742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1703677656965" />
+    <state width="1483" height="125" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1703680149742" />
     <state width="1483" height="117" key="GridCell.Tab.1.bottom" timestamp="1703675706298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -909,10 +340,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="261" y="81" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1702869312746" />
-    <state x="533" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1703220649343">
+    <state x="533" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1703680061816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="533" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1703220649343" />
+    <state x="533" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1703680061816" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
