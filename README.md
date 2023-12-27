@@ -17,7 +17,7 @@ python FatigueMonitoring
 
 ### 数据格式
 
-1.experiment_comparison文件夹包含格式为：C1：时间戳 C2：真实值 C3：预测值
+1.experiment_comparison文件夹包含格式为：C1：时间戳 C2：真实值 C3：预测值【没有sEMG数据】
 
 2.Study1_medfilt11_EMG文件夹包含由窗口大小为 11 个样本的中值过滤器处理的 EMG 测量值
 
@@ -28,6 +28,12 @@ python FatigueMonitoring
 5.对于代码中的问题，请查看注释
 
 6.数据集文件格式：<user_id><exercise_id><repetition_id>
+
+7.采样率为1926Hz，采样通道数为1，在 SF 和 SA 中，肌电图数据是从三角肌记录的，而在 EE 中是从三头肌记录的。
+
+8.中值滤波采用窗口大小为11
+
+9.特征部分采用了短长两种窗口，短窗获取信号，长窗滑动平均
 
 ### 代码说明
 

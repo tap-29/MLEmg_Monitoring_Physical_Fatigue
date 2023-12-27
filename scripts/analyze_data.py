@@ -20,12 +20,12 @@ data_file_path3 = os.path.join(current_dir, '..', 'Study1_medfilt11_EMG', '1_1_1
 data_file_path4 = os.path.join(current_dir, '..', 'Study1_medfilt11_EMG', '1_1_1_NF.npz')
 
 
-# 查看 original_labels_Study1 数据
-print_npz_info(data_file_path1)
-
-# 查看 original_times_Study1 数据
-print_npz_info(data_file_path2)
-
-# 查看 Study1_medfilt11_EMG 数据
+# # 查看 original_labels_Study1 数据
+# print_npz_info(data_file_path1)
+#
+# # 查看 original_times_Study1 数据
+# print_npz_info(data_file_path2)
+#
+# # 查看 Study1_medfilt11_EMG 数据
 print_npz_info(data_file_path3)
 print_npz_info(data_file_path4)
